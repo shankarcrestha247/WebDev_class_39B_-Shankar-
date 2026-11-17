@@ -1,5 +1,4 @@
-let units = 60;
-let bill;
+let units = 70;
 
 if (units <= 50) {
     console.log(50 * 5);
