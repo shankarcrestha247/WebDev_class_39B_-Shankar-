@@ -2,9 +2,9 @@ let isLoggedIn=true;
 let role="admin";
 
 if (!isLoggedIn){
-    console.log("please kogin");
+    console.log("please login");
 }else if(role=="admin"){
-    console.log("welvcome admin");
+    console.log("welcome admin");
 }else{
     console.log("welcome user");
 }
